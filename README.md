@@ -4,9 +4,9 @@ A comprehensive hotel management system built with modern React and real-time ba
 
 ## 🌐 Live Demo
 
-**Visit the live application**: [https://the-wild-oasis-sk.vercel.app/](https://the-wild-oasis-sk.vercel.app/)
+**Visit the live application**: [https://the-wild-oasis-rose-nu.vercel.app/](https://the-wild-oasis-rose-nu.vercel.app/)
 
-> Login with your credentials or create a new account to explore all features.
+> Demo login: email `test@gmail.com` password `test1234`
 
 ## 📋 Table of Contents
 
